@@ -12,4 +12,9 @@ public class Test {
     public class func fetatureOne(){
         print("fetatureOne")
     }
+    
+    public class func fetatureTwo(){
+        print("fetature Two")
+    }
+
 }
